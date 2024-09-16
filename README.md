@@ -1,5 +1,5 @@
 # Memory Game 
-## Match all 6 pictures to win the game
+## Match all pictures to win the game.
 ![Mount olympus](https://github.com/user-attachments/assets/b5a97437-4057-4c03-935e-f873b5a2d289)
 <br>
 <br>
@@ -20,7 +20,7 @@ the relevant message will be displayed of lose. If you make the matches faster y
 * **JavaScript**: Is the caclulations and visuals in motion for the web site. Making the content dynamic <br>
 <br>
 <br>
-* **Further development**
+**Further Development**
 <br>
 <br>
 The game has room for Improvment in terms of styling , but also in complexity of game behaviour.<br>
