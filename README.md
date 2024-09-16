@@ -9,4 +9,4 @@
 The purpose of the game is to to flip and match all images.
 In total you will have 12 attempts, <br> to match all images.
 The game will start with all cards face down. If after 6 choices you havent <br>
-make all the board face up the relevant message will be displayed of lose.
+make all the board face up the relevant message will be displayed of lose. Good Luck! <br>
