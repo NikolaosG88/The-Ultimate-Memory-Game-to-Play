@@ -12,6 +12,13 @@ The game will start with all cards face down. If 6 wrong choices you been meet <
 the relevant message will be displayed of lose. If you make the matches faster you win. Good Luck! <br>
 <br>
 <br>
+**Benefits**
+<Br>
+<Br>
+Game types like this, are very benefetial for the brain and the logi<br>
+Daily practice will re/enforce cogitive ability and keep mushle memory strong
+<br>
+<br>
 **Internal Functionality**
 <br>
 <br>
