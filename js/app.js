@@ -14,7 +14,7 @@ let secondChoice;
 let lockChoices = false;
 let correctChoices = 0;
 let wrongChoices = 0;
-const maxWrongChoices = 7;
+const maxWrongChoices = 6;
 const allCorrectChoices = 6;
 
 /*------------------------ Cached Element References ------------------------*/
