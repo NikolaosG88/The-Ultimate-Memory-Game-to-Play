@@ -15,7 +15,7 @@ the relevant message will be displayed of lose. If you make the matches faster y
 **Benefits**
 <Br>
 <Br>
-Game types like this, are very benefetial for the brain and the logi<br>
+Game types like this, are very benefetial for the brain and the logic<br>
 Daily practice will re/enforce cogitive ability and keep mushle memory strong
 <br>
 <br>
