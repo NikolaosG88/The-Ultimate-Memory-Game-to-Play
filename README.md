@@ -24,5 +24,5 @@ the relevant message will be displayed of lose. If you make the matches faster y
 <br>
 <br>
 The game has room for Improvment in terms of styling , but also in complexity of game behaviour.<br>
-Various other options can be included as well as timer, while can it be designed for two player to participate.<br>
+Various other options can be included as well as timer, while can it be designed for two player to participate.
 
