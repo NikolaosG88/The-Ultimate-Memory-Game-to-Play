@@ -7,5 +7,6 @@
 <br>
 <br>
 The purpose of the game is to to flip and match all images.
-in total you will have six attempts, if not all 12 images are not face-up you lose the game
-the relevant message will be displayed either win or lose.
+In total you will have 12 attempts, <br> to match all images.
+The game will start with all cards face down. If after 6 choices you havent make all the board face up
+the relevant message will be displayed of lose.
