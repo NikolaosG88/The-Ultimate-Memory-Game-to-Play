@@ -1,4 +1,3 @@
-console.log('make it done');
 
 /*-------------------------------- Constants --------------------------------*/
 const cards = document.querySelectorAll('.pic-card');
