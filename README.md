@@ -8,8 +8,8 @@
 <br>
 The purpose of the game is to to flip and match all images.
 In total you will have 12 attempts, <br> to match them all.
-The game will start with all cards face down. When 6 wrong choices you been meet <br>
-the relevant message will be displayed of lose. If you make the matches first you win. Good Luck! <br>
+The game will start with all cards face down. If 6 wrong choices you been meet <br>
+the relevant message will be displayed of lose. If you make the matches faster you win. Good Luck! <br>
 <br>
 <br>
 **Internal Functionality**
