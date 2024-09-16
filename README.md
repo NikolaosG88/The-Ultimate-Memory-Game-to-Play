@@ -15,6 +15,8 @@ make all the board face up the relevant message will be displayed of lose. Good 
 **Internal Functionality**
 <br>
 <br>
-* **HTML**:
-* **CSS**:
-* **JavaScript**:
+* **HTML**: Is the base line on how the game is been build
+* **CSS**: is the style and the enrichment of the page
+* **JavaScript**: Is the caclulations and visuals in motion for the web site. Making the content dynamic <br>
+<br>
+
